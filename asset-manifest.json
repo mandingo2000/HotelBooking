@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mandingo2000/HotelBooking/tree/main/src/hotel-booking-app-frontend/static/css/main.c7616464.css",
+    "main.js": "/mandingo2000/HotelBooking/tree/main/src/hotel-booking-app-frontend/static/js/main.69e8ac98.js",
+    "index.html": "/mandingo2000/HotelBooking/tree/main/src/hotel-booking-app-frontend/index.html",
+    "main.c7616464.css.map": "/mandingo2000/HotelBooking/tree/main/src/hotel-booking-app-frontend/static/css/main.c7616464.css.map",
+    "main.69e8ac98.js.map": "/mandingo2000/HotelBooking/tree/main/src/hotel-booking-app-frontend/static/js/main.69e8ac98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7616464.css",
+    "static/js/main.69e8ac98.js"
+  ]
+}
